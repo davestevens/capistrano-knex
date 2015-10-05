@@ -15,10 +15,6 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install davestevens-capistrano-knex -s http://gems.github.com
-
 ## Usage
 
 Require in `Capfile` to use the default task:
